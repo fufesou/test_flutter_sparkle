@@ -28,5 +28,11 @@
 	<string>MainMenu</string>
 	<key>NSPrincipalClass</key>
 	<string>NSApplication</string>
+	<key>SUFeedURL</key>
+	<string>https://github.com/fufesou/test_flutter_sparkle/appcast.xml</string>
+	<key>SUPublicEDKey</key>
+	<string>MC4CAQAwBQYDK2VwBCIEINw7xzUSp/u3Tu7aWJ3X0LauM9vzoIaxDnMEUJoHm9V4</string>
+	<!-- <key>SUEnableAutomaticChecks</key>
+	<true/> -->
 </dict>
 </plist>
