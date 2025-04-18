@@ -6,7 +6,7 @@ class Updater: NSObject {
 
     private lazy var updaterController = SPUStandardUpdaterController(
         startingUpdater: false,
-        updaterDelegate: self,
+        updaterDelegate: nil,
         userDriverDelegate: nil
     )
 
